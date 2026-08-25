@@ -64,8 +64,7 @@
 
 
 
-## Draw a scatterplot to represent the relationship between
-## GDP and life expectancy
+5. Draw a scatterplot to represent the relationship between GDP and life expectancy
 
 
 
