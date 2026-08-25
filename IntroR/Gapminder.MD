@@ -1,6 +1,4 @@
-
-
-## PART 1 -- SUMMARY STATS 
+### PART 1 -- SUMMARY STATS 
 
 1. How many countries are in each continent?
 
